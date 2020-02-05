@@ -1,0 +1,91 @@
+
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+html {
+  background-color: #E6E6EA;
+}
+
+h1 {
+  color: #586994;
+  font-size: 35px;
+  font-weight: 25px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #586994;
+  font-size: 14px;
+  font-weight: 20px;
+  font-family: 'Open Sans', Poppins;
+  text-align: center;
+}
+
+a {
+    font-family: 'Roboto', Poppins;
+    text-decoration: none;
+    color: red;
+    font-weight: 600;ß
+    font-size: 16px;
+    font-family: 'Open Sans', Poppins;
+    text-align: center;
+}
+
+h3 {
+  color: #586994;
+  font-size: 20px;
+  font-weight: 20px;
+  text-align: center;
+}
+
+ul {
+  /*text-align: center;*/
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+i:hover {
+  color: blue;
+}
+
+a:hover {
+  color: blue;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  /*background-color: #9EEFE5;*/
+  border-radius: 4px;
+  /*box-shadow: 0 20px 30px white;*/
+}
+
+.card {
+  /*width: 600px;*/
+  /*margin: 0 auto;*/
+  background-color: #F4F4F8;
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px rgba(255,255,255,0.7);
+  text-align: center;
+  border: 3px, lightgrey;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  background: background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+}
+
+
+
+
+
